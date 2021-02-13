@@ -7,4 +7,4 @@ Code uses ```pandas```,```numpy```, ```sodapy``` and ```cenpy``` organize of pro
 
 Using ```geopandas```, and ```matplotlib```, this correlation was visualized. 
 
-
+![](NYC%20Properties%20%2B%20Amenities/NYC%20Properties%20%2B%20Amenitiesbikepath.gif)
